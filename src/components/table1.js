@@ -4,7 +4,8 @@ import{Table} from 'react-bootstrap'
 class Tables extends Component {
     render() {
         return (
-            <div>
+            <div className="to">
+            
                 <Table striped bordered hover>
                     <thead>
                         <tr>
